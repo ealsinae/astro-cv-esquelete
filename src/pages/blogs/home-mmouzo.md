@@ -1,8 +1,8 @@
 ---
-title: The Crew
-date: 11/2022 - Present
-url: http://em.gl/giw
-url_name: em.gl
+title: Blog Personal - Alsina Web Dev
+date: 2022 - Presente
+url: https://alsinawebdev.blogspot.com/
+url_name: blogspot.com
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Blog personal donde comparto experiencias, conocimientos y reflexiones sobre desarrollo web, tecnologías, herramientas y recursos útiles para desarrolladores. Aunque ha estado inactivo por un tiempo, espero retomarlo pronto y seguir publicando contenido de valor.

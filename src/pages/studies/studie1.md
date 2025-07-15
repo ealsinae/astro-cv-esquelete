@@ -1,15 +1,15 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
+location: Málaga (Andalucia, España)
+url: https://www.cesurformacion.com/
+institute: Cesur
+date: 2022-2024
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "Desarrollo",
+    "Web",
+    "Programación",
+    "Bases de Datos",
+    "Diseño UX/UI",
   ]
 ---

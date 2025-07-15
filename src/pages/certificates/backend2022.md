@@ -1,9 +1,9 @@
 ---
-title: Certified Tactical Emergency Medical Technician (TEMT)
-org: 123 Main Street, Los Angeles
-tags: [Tactical Medicine, First Aid Training, Critical Care, Triage Protocol]
-url: http://akazedu.edu/seaghi
-date: 1992
+title: HTML
+org: SoloLearn
+tags: [HTML, Web Development, Marcado]
+url: https://www.sololearn.com/
+date: 2023
 ---
 
-The Tactical Emergency Medical Technician (TEMT) certification trains healthcare professionals to provide advanced medical care in tactical and high-risk environments, such as law enforcement operations, military settings, or emergency response scenarios. TEMTs are trained to rapidly assess and treat traumatic injuries, stabilize patients in adverse conditions, and closely collaborate with tactical and rescue teams to ensure the safety and well-being of victims.
+Curso que abarca los fundamentos del lenguaje HTML5, incluyendo estructura semántica, etiquetas esenciales, formularios y buenas prácticas para el desarrollo web moderno.
